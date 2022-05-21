@@ -15,6 +15,15 @@ body {
   font-size: 16px;  
 }  
 #title {  
-  color: #ff6363;  
+  color: #ff2400;  
   padding: 15px;  
+}  
+.btn-success, .btn-success:focus {  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);  
+  background-color: #cc0000;  
+  border-color: #cc0000;  
+}  
+.btn-success:hover {  
+  background-color: #ff0000;  
+  border-color: #ff0000;  
 }
