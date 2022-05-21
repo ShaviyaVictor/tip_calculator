@@ -8,3 +8,13 @@ body {
   margin-left: auto;  
   margin-right: auto;  
 } 
+.container h1, .container p {  
+  color: #8a8a8a;  
+}
+.container p {  
+  font-size: 16px;  
+}  
+#title {  
+  color: #ff6363;  
+  padding: 15px;  
+}
