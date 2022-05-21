@@ -1,12 +1,13 @@
 /* global style */
 body {  
   background-color: white;  
+  min-height: 100vh;
 }
 /* main container styles */
 .container {  
   max-width: 320px;  
   margin-left: auto;  
-  margin-right: auto;  
+  margin-right: auto; 
 } 
 /* style the heading and paragraphs */
 .container h1, .container p {  
@@ -17,7 +18,8 @@ body {
 }  
 #title {  
   color: #ff2400;  
-  padding: 15px;  
+  padding: 15px; 
+  margin-top: 2rem; 
 }  
 /* style the button */
 .btn-success, .btn-success:focus {  
