@@ -7,5 +7,9 @@ var calc = function() {
   var tip = bill * 0.15;
   var totalBill = bill + tip;
   var splitPerPerson = totalBill / split;
+  
+  document.getElementById('tip').innerHTML = '$' + Number(tip).toFixed(2);
+  document.getElementById('total').innerHTML = '$' + Number(totalBill).toFixed(2);
+  document.getElementById('splitTotal').innerHTML = '$' + Number(splitPerPerson).toFixed(2);
 
 }
