@@ -1,5 +1,5 @@
 # tip_calculator
-A tip calculator meant to make the work of calculating the tip to be offered easier. The program as well as break down what each person is supposed to contribute towards the bill.
+A tip calculator meant to make the work of calculating the tip to be offered easier. The program will as well as break down what each person is supposed to contribute towards the bill.
            
 <img src="https://github.com/ShaviyaVictor/tip_calculator/blob/main/assets/images/tipCalcScreenshot.png" width="400" height="500">             
 
