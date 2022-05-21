@@ -1,10 +1,7 @@
 # tip_calculator
-A tip calculator meant to make the work of calculating the tip to be offered easier.
-
-# combo_forms
-Registration and login forms combined.            
-<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/register.png" width="400" height="400"> <img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/login.png" width="400" height="400">                       
-<img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/RegisterMobile.jpeg" width="300" height="600"> <img src="https://github.com/ShaviyaVictor/combo_forms/blob/main/asset/LoginMobile.jpeg" width="300" height="600">             
+A tip calculator meant to make the work of calculating the tip to be offered easier. As well break down what each person is supposed to contribute towards the bill.
+           
+<img src="https://github.com/ShaviyaVictor/tip_calculator/blob/main/assets/images/tipCalcScreenshot.png" width="400" height="500">             
 
 ## Built With
 
@@ -15,7 +12,7 @@ Registration and login forms combined.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/toggleSwitch/blob/main/LICENSE).     
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/tip_calculator/blob/main/LICENSE).     
 
 ## Acknowledgments
 
@@ -25,7 +22,7 @@ This project is licensed under the [MIT License](https://github.com/ShaviyaVicto
 
 * **Victor Shaviya**        
     - [LinkedIn](https://www.linkedin.com/in/victor-shaviya-532ab0110/)          
-    - [Instagram](https://www.instagram.com/ignition_reads/)        
+    - [Instagram](https://www.instagram.com/shaviyavictor/)        
     - [Twitter](https://twitter.com/ShaviyaVictor)
 
   
